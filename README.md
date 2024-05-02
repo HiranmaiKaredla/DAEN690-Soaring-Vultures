@@ -26,5 +26,7 @@ To run the dashboard
 streamlit run dashboard.py
 ```
 
+As the dataset size is large. It is not uploaded in github. Download from the source and use accordingly.
+
 
 
